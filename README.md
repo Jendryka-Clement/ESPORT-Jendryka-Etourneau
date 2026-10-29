@@ -138,9 +138,7 @@ Les tests utilisent la stratégie `ToujoursMieuxClasse` pour avoir un résultat 
 
 ## Non réalisé
 
-- **Simulation dans des threads** : les tournois sont joués l'un après l'autre, dans le programme
-  principal. Il n'y a donc pas d'`ExecutorService`, de durée de simulation, ni de limite de 3 tournois
-  en cours en même temps.
+- **Simulation dans des threads** : Manque de temps
 
 ## Limites connues
 
