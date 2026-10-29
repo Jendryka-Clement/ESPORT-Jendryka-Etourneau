@@ -1,6 +1,6 @@
 # IMT Arena
 
-Projet Java du TP de Conception Orientée Objet (IMT Nord-Europe, FISA ITR).
+Projet Java du TP de Conception Orientée Objet (IMT Nord-Europe, FISA ITR). Réalisé par Clément Jendryka et Noa Etourneau
 
 Le programme gère des tournois e-sport : des joueurs, des coachs, des arbitres, des jeux, des équipes,
 des matchs et des tournois. Les matchs ne sont pas vraiment joués, le résultat est tiré au hasard.
